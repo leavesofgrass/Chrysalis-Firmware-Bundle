@@ -124,7 +124,7 @@ void setup() {
   Kaleidoscope.setup();
 
   EEPROMKeymap.setup(5);
-  SpaceCadet.disable();
+  SpaceCadet.enable();
 }
 
 void loop() {
